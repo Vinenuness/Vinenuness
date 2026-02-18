@@ -26,3 +26,10 @@ Analista de TI | Infraestrutura | Automação com Python | Segurança da Informa
 ## Projetos em destaque
 - 🧰 **IT Helpdesk Toolkit** — ferramentas web para suporte
 - 🤖 **Automação/Agente TI** — coleta e envio de informações do PC para API
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinenuness&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinenuness&layout=compact&theme=tokyonight)
