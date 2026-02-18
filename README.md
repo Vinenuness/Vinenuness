@@ -17,15 +17,16 @@ Analista de TI com foco em Infraestrutura, Automação e Segurança da Informaç
 
 ---
 
-![Windows](...)
-![Linux](...)
-![Python](...)
-![Flask](...)
-![MySQL](...)
-![Git](...)
-![Networking](...)
+## 🛠 Tecnologias
 
----
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-00599C?style=for-the-badge&logo=cisco&logoColor=white)
+
 ---
 
 ## 🚀 Projetos Reais
