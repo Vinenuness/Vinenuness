@@ -28,8 +28,9 @@ Analista de TI | Infraestrutura | Automação com Python | Segurança da Informa
 - 🤖 **Automação/Agente TI** — coleta e envio de informações do PC para API
 ---
 
+
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinenuness&show_icons=true&theme=dark&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vinenuness&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinenuness&layout=compact&theme=dark&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vinenuness&layout=compact&theme=dark)
