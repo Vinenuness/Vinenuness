@@ -21,14 +21,6 @@ Analista de TI | Infraestrutura | Automação com Python | Segurança da Informa
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📊 Estatísticas do GitHub
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinenuness&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinenuness&layout=compact&theme=tokyonight"/>
-
 
 ---
 
