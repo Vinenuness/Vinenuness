@@ -30,8 +30,11 @@ Analista de TI | Infraestrutura | Automação com Python | Segurança da Informa
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinenuness&layout=compact&theme=tokyonight"/>
 
 
+---
+
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Vinenuness&show_icons=true&theme=dark)
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinenuness&theme=github_dark"/>
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Vinenuness&layout=compact&theme=dark)
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinenuness&theme=github_dark"/>
+
