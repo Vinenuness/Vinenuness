@@ -1,16 +1,28 @@
-## Hi there 👋
+# Oi, eu sou o Vinícius 👋
 
-<!--
-**Vinenuness/Vinenuness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de TI | Infraestrutura | Automação com Python | Segurança da Informação
 
-Here are some ideas to get you started:
+📍 Garça - SP  
+🔗 LinkedIn: https://www.linkedin.com/in/vinicius-nunes-da-silva-2049792b8/  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Sobre mim
+- 💻 Atuação com suporte, infraestrutura e sistemas corporativos
+- ⚙️ Automação de rotinas com Python
+- 🔐 Interesse e prática em cibersegurança e hardening
+- 🧠 Estudando e aplicando IA no dia a dia de TI
+
+---
+
+## Tecnologias
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## Projetos em destaque
+- 🧰 **IT Helpdesk Toolkit** — ferramentas web para suporte
+- 🤖 **Automação/Agente TI** — coleta e envio de informações do PC para API
