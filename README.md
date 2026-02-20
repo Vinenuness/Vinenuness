@@ -37,6 +37,9 @@ Ferramentas web para otimização de atendimento técnico interno.
 ### 🤖 Agente de Monitoramento
 Sistema de coleta e envio de informações do ambiente para API central.
 
+### 🖥 Painel de Inventário e Execução Remota
+Sistema web para inventário de computadores e execução remota de scripts via agente Windows.
+
 
 ---
 
