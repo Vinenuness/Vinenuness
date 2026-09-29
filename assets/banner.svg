@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Vinicius Nunes - Analista de TI">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2f81f7"/>
+      <stop offset="1" stop-color="#3fb950"/>
+    </linearGradient>
+    <linearGradient id="mono" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2f81f7"/>
+      <stop offset="1" stop-color="#3fb950"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+
+  <!-- decoracao suave -->
+  <circle cx="1060" cy="40" r="150" fill="#1f6feb" opacity="0.10"/>
+  <circle cx="1130" cy="270" r="90" fill="#3fb950" opacity="0.08"/>
+  <circle cx="60" cy="280" r="120" fill="#1f6feb" opacity="0.07"/>
+  <g stroke="#30363d" stroke-width="1" opacity="0.35">
+    <line x1="720" y1="30" x2="820" y2="30"/>
+    <line x1="760" y1="55" x2="880" y2="55"/>
+    <line x1="790" y1="80" x2="910" y2="80"/>
+  </g>
+
+  <!-- monograma -->
+  <circle cx="110" cy="98" r="38" fill="none" stroke="url(#mono)" stroke-width="3"/>
+  <text x="110" y="110" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" fill="#e6edf3">VN</text>
+
+  <!-- nome -->
+  <text x="185" y="112" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="700" fill="#e6edf3" letter-spacing="1">VINICIUS NUNES</text>
+
+  <!-- barra de destaque -->
+  <rect x="60" y="150" width="220" height="5" rx="2.5" fill="url(#accent)"/>
+
+  <!-- subtítulo -->
+  <text x="60" y="212" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" fill="#8b949e" letter-spacing="3">ANALISTA DE TI · INFRAESTRUTURA · AUTOMAÇÃO · SEGURANÇA</text>
+
+  <!-- local -->
+  <text x="60" y="254" font-family="Segoe UI, Arial, sans-serif" font-size="19" fill="#8b949e">Garça - SP, Brasil · Python · Flask · Windows · Linux</text>
+</svg>
