@@ -92,10 +92,9 @@ python · flask · sqlite · nginx · gunicorn · systemd · pyinstaller
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Vinenuness&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinenuness&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vinenuness&theme=github_dark" alt="resumo do perfil" width="70%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vinenuness&theme=github_dark" alt="estatísticas do GitHub" height="170em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vinenuness&theme=github_dark" alt="linguagens por repositório" height="170em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vinenuness&theme=github_dark" alt="linguagens mais usadas" height="170em"/>
 
 </div>
 
