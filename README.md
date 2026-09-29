@@ -52,6 +52,62 @@ python · flask · sqlite · nginx · gunicorn · systemd · pyinstaller
 
 ---
 
+## 💼 Experiência
+
+### 🏥 AHBB | Rede Santa Casa — **Analista de TI** · `2025 — Atual`
+
+> Suporte N3, infraestrutura e implantação de sistemas hospitalares em ambiente de saúde.
+
+- Desenvolvimento de **sistemas web internos e automações em Python** — economia estimada de **15h/semana** em processos manuais
+- Implantação de sistemas hospitalares: infraestrutura, testes e pós-go-live — **redução de 30% no tempo de implantação** com mapeamento de fluxos
+- Administração do **Nextcloud corporativo**: permissões, backups e LGPD
+- Suporte N3 e alinhamento com a gestão de TI em decisões técnicas e de segurança
+
+### 💻 Freelance — **Desenvolvedor & Consultor de TI** · `Mar/2022 — Atual`
+
+> Projetos sob demanda para pequenos negócios, unindo desenvolvimento, infraestrutura e consultoria.
+
+- Soluções web em **Python/Flask** com integração a bancos SQL
+- Automação de processos, redes locais, hardware e boas práticas de segurança
+
+### 🏛️ Prefeitura de Garça — **Agente Comunitário de Saúde** · `Ago/2022 — Nov/2025`
+
+> Experiência intensiva com dados, sistemas governamentais e relatórios gerenciais.
+
+- Consolidação de dados e **Excel avançado** para indicadores gerenciais
+- Operação de sistemas governamentais (Gov.br / e-SUS) e integridade de registros
+
+<sub>*Trajetória anterior em atendimento ao cliente e eletrônica industrial (ERP TOTVS Protheus) — base prática que sustenta a visão de processo e contato com usuário.*</sub>
+
+---
+
+## 🎓 Formação & Certificações
+
+| Formação | Instituição |
+|---|---|
+| 🎓 **MBA em Gestão de TI** | Unicorp Faculdades |
+| 🎓 **Pós-graduação em Engenharia de Software** | Unicorp Faculdades |
+| 🎓 **Análise e Desenvolvimento de Sistemas** | UNIVEM — Marília/SP |
+| 🔧 **Técnico em Eletrônica** | ETEC Monsenhor Antônio Magliano — Garça/SP |
+
+<details>
+<summary><strong>📜 Certificações e cursos (destaques)</strong></summary>
+
+| Área | Curso | Instituição |
+|---|---|---|
+| 🛠 Suporte | Technical Diagnostics and Troubleshooting Techniques | Microsoft · 2026 |
+| 🛠 Suporte | Suporte técnico para hardware e software | Dell Technologies · 2026 |
+| 🛠 Suporte | Google Technical Support Fundamentals | Coursera · 2024 |
+| 🔐 Segurança | Hackers do Bem — Formação e Nivelamento | RNP · 2024 |
+| 🔐 Segurança | Por Dentro da Segurança Cibernética | Senai SP · 2024 |
+| 📊 Dados | Análise de Dados no Power BI | Fundação Bradesco · 2024 |
+| 📊 Dados | Fundamentos de Data Science e IA | Data Science Academy · 2024 |
+| 🐍 Automação | Programação Python do Zero ao Avançado + Projetos Reais | Udemy · 2024 |
+
+</details>
+
+---
+
 ## 🧰 Outros projetos
 
 | Projeto | O que é |
