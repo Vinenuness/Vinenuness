@@ -4,7 +4,7 @@ Analista de TI com foco em Infraestrutura, Automação e Segurança da Informaç
 
 📍 Garça - SP  
 🔗 LinkedIn: https://www.linkedin.com/in/vinicius-nunes-da-silva-2049792b8/  
-🔗 https://vinenuness.github.io/portfolio/
+🔗 Potfolio: https://vinenuness.github.io/portfolio/
 ---
 
 ## Sobre mim
